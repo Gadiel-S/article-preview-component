@@ -1,5 +1,5 @@
-const button = document.querySelector(".container .btn");
-const shareBtn = document.querySelector(".container .share-btn");
+const button = document.querySelector(".container .button");
+const shareBtn = document.querySelector(".container .share-button");
 const share = document.querySelector(".share");
 const triangle = document.querySelector(".triangle");
 
