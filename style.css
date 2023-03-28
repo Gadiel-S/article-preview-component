@@ -7,8 +7,7 @@ li {
   list-style-type: none;
 }
 body {
-  /* background-color: hsl(210, 46%, 95%); */
-  background-color: blue;
+  background-color: hsl(210, 46%, 95%);
   font-size: 0.8125rem;
   font-family: 'Manrope', sans-serif;
   display: flex;
